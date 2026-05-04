@@ -1,4 +1,4 @@
-☕ # Coffee Sales Dashboard
+# Coffee Sales Dashboard ☕ 
 ## Sobre o Projeto
 Este dashboard foi desenvolvido para analisar o desempenho de vendas de uma cafeteria ao longo de um ano. O objetivo é fornecer visibilidade sobre o faturamento, volume de transações, ticket médio e comportamento do consumidor para apoiar a tomada de decisão estratégica.
 
